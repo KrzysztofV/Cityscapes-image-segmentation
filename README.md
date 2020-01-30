@@ -1,11 +1,11 @@
 # Cityscapes-image-segmentation
  Comparison of different NN models with the Cityscapes dataset (Colab project)
  
-# Technologies:
+## Technologies:
 - tensorflow
 - keras
 
-Available models:
+## Available models:
 - Unet MobileNet V2 
 - Lite RASPP Large MobileNet V3 
 - Lite RASPP MobileNet V2
