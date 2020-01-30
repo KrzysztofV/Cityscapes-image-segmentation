@@ -9,6 +9,6 @@ Available models:
 - DeepLab V3+ MobileNet V2 (custom implementation OS16+OS8) 
 - DeepLab V3+ MobileNet V3
 
-Code olso allows to process video with nn model.
+Code also allows to process video with nn model.
 
 Cityscapes TFRecords not included.
