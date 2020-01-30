@@ -1,5 +1,9 @@
 # Cityscapes-image-segmentation
  Comparison of different NN models with the Cityscapes dataset (Colab project)
+ 
+# Technologies:
+- tensorflow
+- keras
 
 Available models:
 - Unet MobileNet V2 
